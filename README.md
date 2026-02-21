@@ -32,10 +32,6 @@
 
 ## 📊 GitHub Stats
 
-![Ahlam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahla22-19&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahla22-19&layout=compact&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahla22-19&theme=radical)
 
 ---
