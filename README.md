@@ -2,20 +2,6 @@
 
 🚀 **Electronics and Communication Engineer** | **Full-Stack Developer** | **Competitive Programmer**
 
----
-
-## 🌟 About Me
-
-I'm a passionate developer who loves building real-world solutions that make a difference. I specialize in full-stack web development and enjoy solving complex problems through competitive programming.
-
-- 🔭 I'm currently working on **HELPEthiopia** – a donation platform for a local NGO
-- 🌱 I'm learning **advanced algorithms** and **AI-powered applications**
-- 👯 I'm looking to collaborate on **open-source projects** that have social impact
-- 💬 Ask me about **React, Python, or competitive programming**
-- 📫 How to reach me: **[zeynuahlam@gmail.com](mailto:zeynuahlam@gmail.com)**
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -71,7 +57,6 @@ An AI assistant that converts natural language questions into safe SQL queries u
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahlam-zeynu)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeynuahlam@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahla22-19)
 
